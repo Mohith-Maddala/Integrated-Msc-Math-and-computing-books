@@ -17,7 +17,7 @@ Below is a list of all the resources available in this repository. Please follow
 ### First Year
 
 * **Calculus for Computing**
-    * [📖 Textbook](./First_Year/Calculus_for_Computing/Textbook.pdf)
+    * [📖 discrete mathematics and its applications by kenneth rosen ](https://drive.google.com/file/d/0B0bp3foGeABtNEoweGVJQUJDNms/view?usp=sharing&resourcekey=0-t8AupujzE3sjX_OJcmE4Hw)
     * [🔑 Solutions](./First_Year/Calculus_for_Computing/Solutions.pdf)
 * **Discrete Mathematics I**
     * [📖 Textbook](./First_Year/Discrete_Mathematics_I/Textbook.pdf)
